@@ -26,7 +26,7 @@ Dieses Projekt demonstriert den Aufbau eines Deep-Learning-Modells von Grund auf
 1.  **Repository klonen:**
     ```bash
     git clone [https://github.com/hasan-hueseyin22/neuralnet_wine-quality.git](https://github.com/hasan-hueseyin22/neuralnet_wine-quality.git)
-    cd wine-quality-neural-network
+    cd neuralnet_wine-quality
     ```
 
 2.  **Virtuelle Umgebung erstellen und aktivieren (empfohlen):**
