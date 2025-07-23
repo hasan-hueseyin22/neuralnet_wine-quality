@@ -1,5 +1,3 @@
-# src/model.py
-
 import tensorflow as tf
 from tensorflow import keras
 from keras_tuner import HyperModel
