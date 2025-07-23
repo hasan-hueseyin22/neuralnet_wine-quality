@@ -1,5 +1,3 @@
-# src/config.py
-
 # Paths
 DATA_URL = "https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-white.csv"
 DATA_PATH = "data/raw/winequality-white.csv"
